@@ -68,8 +68,7 @@ after that click on deploy to exexute the program
 kumar sanjeev 
 https://www.linkedin.com/in/kumar-sanjeev-150965230/
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+
 
 
 License
